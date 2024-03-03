@@ -1,0 +1,10 @@
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\bin\Debug\Jurnal03_1302220064.exe.config
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\bin\Debug\Jurnal03_1302220064.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\bin\Debug\Jurnal03_1302220064.pdb
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.csproj.AssemblyReference.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.Form1.resources
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.Properties.Resources.resources
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.csproj.GenerateResource.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.csproj.CoreCompileInputs.cache
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.exe
+E:\Materi\SEMESTER 4\Praktikum KPL\Jurnal03_1302220064\Jurnal03_1302220064\obj\Debug\Jurnal03_1302220064.pdb
